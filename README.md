@@ -4,10 +4,10 @@
 
 ### I aimed to showcase this diacotomy with a short animation. The first scene is a loading/intro scene that lores the user in with wavy text and some people in the Alegria art style. Next is an abstract face using similar pastel colors with words evoking a feeling of happiness and joy (the namesake of the art style). The last scene is the "gotcha" moment where the face is peeled back to reveal a gray background and New York Times artcile of Facebook's scandals over the years. There is also my headline for this piece "What's Lying Underneath" which has two meanings: the first being the literal meaning of what behind the face and the second refers to these companies lying about their wrongdoings and trying to cover them up. 
 
-![scene1][https://github.com/hrana2/HAR371-Final-Project/blob/main/images/scene1.png]
-![scene2][https://github.com/hrana2/HAR371-Final-Project/blob/main/images/scene2.png]
-![inBetween][https://github.com/hrana2/HAR371-Final-Project/blob/main/images/inBetween.png]
-![scene3][https://github.com/hrana2/HAR371-Final-Project/blob/main/images/scene3.png]
+![scene1](https://github.com/hrana2/HAR371-Final-Project/blob/main/images/scene1.png)
+![scene2](https://github.com/hrana2/HAR371-Final-Project/blob/main/images/scene2.png)
+![inBetween](https://github.com/hrana2/HAR371-Final-Project/blob/main/images/inBetween.png)
+![scene3](https://github.com/hrana2/HAR371-Final-Project/blob/main/images/scene3.png)
 
 [Link to the Youtube video of the animation](https://youtu.be/ToCxHS0LrSA)
 
